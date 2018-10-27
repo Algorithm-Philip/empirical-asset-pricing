@@ -11,7 +11,7 @@
 * I use Jupyter notebooks to interact with Python. 
 * To start it, type *jupyter notebook* in a terminal or "Anaconda command prompt" if you use Windows.
 
-* There is a very good tutorial: https://docs.python.org/2.7/tutorial/index.html.
+* There is a very good tutorial: https://www.python.org/about/gettingstarted/.
 
 * Comments are welcomed. Contact me via https://www.leifuzhang.net/ or https://github.com/econ2fina.
 

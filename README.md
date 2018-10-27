@@ -6,10 +6,13 @@
 
 * The Python distribution I use is [Anaconda](https://www.anaconda.com/what-is-anaconda/). 
 
-* The version is Python 3.6. 
+* The version is Python 3.6.
 
 * I use Jupyter notebooks to interact with Python. 
 * To start it, type *jupyter notebook* in a terminal or "Anaconda command prompt" if you use Windows.
+
+* There is very good tutorial: https://docs.python.org/2.7/tutorial/index.html.
+
 * Comments are welcomed. Contact me via https://www.leifuzhang.net/ or https://github.com/econ2fina.
 
 ## FAQs

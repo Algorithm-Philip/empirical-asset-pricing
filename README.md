@@ -13,7 +13,7 @@
 
 * There is a very good tutorial: https://www.python.org/about/gettingstarted/.
 
-* Comments are welcomed. Contact me via https://www.leifuzhang.net/ or https://github.com/econ2fina.
+* Comments are welcomed.
 
 ## FAQs
 
